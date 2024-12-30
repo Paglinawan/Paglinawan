@@ -26,17 +26,3 @@ Thank you for visiting my GitHub profile!
   classDef vision opacity: 0.3;
   class 4 vision
 ```
-
-### My Skill
-
-- `HTML` / `CSS` / `SCSS` ★★★★★
-- `React` / `Next.js` / `jQuery` ★★★☆☆
-- `TypeScript` ★★★☆☆
-- `Ruby on Rails` ★☆☆☆☆
-- `WordPress` ★★★☆☆
-- `Shopify` ★★☆☆☆
-
-- `Figma` ★★★★☆
-- `XD` ★★★☆☆
-- `Photoshop` ★★★☆☆
-- `Illustrator` ★☆☆☆☆
