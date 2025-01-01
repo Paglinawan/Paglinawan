@@ -1,4 +1,4 @@
-![card](https://github.com/user-attachments/assets/c9bb5fb1-cb60-4cfc-9f33-fc0612287a75)
+![card](https://github.com/user-attachments/assets/19cd3f88-602b-4c85-b1b2-279637ddbaee)
 
 Thank you for visiting my GitHub profile!<br>
 I enjoy designing and developing from scratch, you're welcome to check out my repositories 🐣
