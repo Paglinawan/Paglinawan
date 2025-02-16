@@ -3,4 +3,4 @@
 Thank you for visiting my GitHub profile!<br>
 I enjoy designing and developing from scratch, you're welcome to check out my repositories 🐣
 
-[About Me](https://www.linkedin.com/in/paglinawan0520/) | [Portfolio](https://www.linkedin.com/in/paglinawan0520/recent-activity/articles/) | [Creations](https://www.behance.net/mihohoriuchi)
+[About Me](https://www.linkedin.com/in/paglinawan0520/) | [Figma](https://www.figma.com/@paglinawan) | [Creations](https://www.behance.net/mihohoriuchi)
